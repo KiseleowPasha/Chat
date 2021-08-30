@@ -1,0 +1,51 @@
+[
+    {
+        "chatId": 1,
+        "messageId": 1,
+        "author": "Pete",
+        "text": "Помогите найти номер клиента"
+    },
+    {
+        "chatId": 2,
+        "messageId": 2,
+        "author": "Steven",
+        "text": "Я хочу в бар в пятницу!"
+    },
+    {
+        "chatId": 1,
+        "messageId": 3,
+        "author": "Steven",
+        "text": "Я не успеваю дописать виджет :("
+    },
+    {
+        "chatId": 2,
+        "messageId": 4,
+        "author": "me",
+        "text": "У меня кошка родила!"
+    },
+    {
+        "chatId": 1,
+        "messageId": 5,
+        "author": "Elena",
+        "text": "Макет готов!"
+    },
+    {
+        "chatId": 1,
+        "messageId": 6,
+        "author": "me",
+        "text": "Отлично, скидывай фигма-файл!"
+    },
+    {
+        "chatId": 2,
+        "messageId": 7,
+        "author": "Elena",
+        "text": "Идею с баром поддерживаю!"
+    },
+    {
+        "chatId": 2,
+        "messageId": 8,
+        "author": "Pete",
+        "text": "Отлично! В пятницу идём кутить!!!"
+    }
+
+]
